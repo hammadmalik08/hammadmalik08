@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hammad Malik</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-
+<video src="![alt text](image-1.png)"></video>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadmalik08&label=Profile%20views&color=0e75b6&style=flat" alt="hammadmalik08" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammadmalik08" alt="hammadmalik08" /></a> </p>
