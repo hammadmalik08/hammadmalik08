@@ -1,4 +1,4 @@
-|[logo] ()
+|[logo](https://github.com/hammadmalik08/banner.png/blob/main/6c38263e-bd0a-4dd2-99ca-d3366d6b590c.jfif)
 <h1 align="center">Hi 👋, I'm Hammad Malik</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
