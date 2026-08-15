@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="./assets/hammad-banner.png" 
+    src="https://tse4.mm.bing.net/th/id/OIP.bIqx-c3forUPXHdPoUjuJAHaCH?r=0&pid=Api&h=220&P=0" 
     alt="Hammad Malik - Full Stack Developer"
     width="100%"
   />
@@ -58,7 +58,7 @@
 
 <p align="left">
 
-<a href="https://github.com/hammadmalik08" target="_blank">
+<a href="https://github.com/hammadmalik08" target="_blankk">
   <img 
     src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
