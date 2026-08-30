@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hammad Malik</h1>
-<img src="https://tse4.mm.bing.net/th/id/OIP.bIqx-c3forUPXHdPoUjuJAHaCH?r=0&pid=Api&h=220&P=0" alt="">
+<img src="https://tse4.mm.bing.net/th/id/OIP.bIqx-c3forUPXHdPoUjuJAHaCH?r=0&pid=Api&h=220&P=0" alt="" style= width:100%;>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img src="" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadmalik08&label=Profile%20views&color=0e75b6&style=flat" alt="hammadmalik08" /> </p>
