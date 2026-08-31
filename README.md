@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hammad Malik</h1>
 <img src="https://tse4.mm.bing.net/th/id/OIP.bIqx-c3forUPXHdPoUjuJAHaCH?r=0&pid=Api&h=220&P=0" alt="" style= width:100%;>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img src="https://www.vecteezy.com/video/48039160-isometric-computer-technology-animation-desktop-computer-platforms-software-programming-coding-concept-code-with-computer-monitor-transparent-background-with-alpha-channel" alt="">
+<img src="https://t4.ftcdn.net/jpg/07/44/39/67/360_F_744396718_RZ6UK8azeTMXPA5dSYVPrRGVNUmK2FMf.jpg" alt="" style= margin-left: 60px; width: 500px;>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadmalik08&label=Profile%20views&color=0e75b6&style=flat" alt="hammadmalik08" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammadmalik08" alt="hammadmalik08" /></a> </p>
