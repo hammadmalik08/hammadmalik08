@@ -1,27 +1,28 @@
 <h1 align="center">Hi 👋, I'm Hammad Malik</h1>
-<img src="https://tse4.mm.bing.net/th/id/OIP.bIqx-c3forUPXHdPoUjuJAHaCH?r=0&pid=Api&h=220&P=0" alt="" style= width:100%;>
-<h3 align="center">A passionate full stack web developer from Pakistan</h3>
-<img src="https://t4.ftcdn.net/jpg/07/44/39/67/360_F_744396718_RZ6UK8azeTMXPA5dSYVPrRGVNUmK2FMf.jpg" alt="" style= margin-left: 60px; width: 500px;>
+<img src="https://tse4.mm.bing.net/th/id/OIP.bIqx-c3forUPXHdPoUjuJAHaCH?r=0&pid=Api&h=220&P=0" alt="" style = "width : 100% ;">
+<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/07/44/39/67/360_F_744396718_RZ6UK8azeTMXPA5dSYVPrRGVNUmK2FMf.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadmalik08&label=Profile%20views&color=0e75b6&style=flat" alt="hammadmalik08" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammadmalik08" alt="hammadmalik08" /></a> </p>
-
-- 🌱 I’m currently learning **web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hammadmalik08](https://github.com/hammadmalik08)
 
 - 💬 Ask me about **Hi 👋, I'm Hammad — a passionate Full Stack Web Developer. I love building modern, scalable, and user-friendly web applications. Skilled in both frontend and backend, turning ideas into real products. Always learning new technologies and improving my craft. 🚀**
 
-- 📫 How to reach me **hammadmalik79309@gmail.com**
+- 📫 How to reach me **hammadmalik8010@gmail.com**
 
 - 📄 Know about my experiences [frash](frash)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+<a href="mailto:hammadmalik8010@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a>
+
+<p align="left">
+<a href="https://instagram.com/hammad_0810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hammad_0810" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammadmalik08&show_icons=true&locale=en&layout=compact" alt="hammadmalik08" /></p>
 
@@ -29,3 +30,19 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadmalik08&" alt="hammadmalik08" /></p>
 
+🚀 My Developer Journey
+🌱 Learning        → Full Stack Web Development
+💻 Frontend        → HTML | CSS | JavaScript
+🛠️ Tools           → Git | GitHub | VS Code
+🎨 Design          → Responsive & Modern UI
+🎯 Goal            → Become a Professional Full Stack Developer
+
+<div align="center">
+
+💡 "Code. Learn. Build. Improve. Repeat." 🚀
+
+⭐ If you like my projects, don't forget to star them!
+
+Thanks for visiting my profile ❤️
+
+</div>
