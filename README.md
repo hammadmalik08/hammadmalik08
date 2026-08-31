@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **Hi 👋, I'm Hammad — a passionate Full Stack Web Developer. I love building modern, scalable, and user-friendly web applications. Skilled in both frontend and backend, turning ideas into real products. Always learning new technologies and improving my craft. 🚀**
 
-- 📫 How to reach me **hammadmalik8010@gmail.com**
-
 - 📄 Know about my experiences [frash](frash)
 
 <h3 align="left">Connect with me:</h3>
