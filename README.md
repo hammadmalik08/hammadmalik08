@@ -32,11 +32,16 @@
 
 <div align="center">
   🚀 My Developer Journey
-🌱 Learning        → Full Stack Web Development
-💻 Frontend        → HTML | CSS | JavaScript
-🛠️ Tools           → Git | GitHub | VS Code
-🎨 Design          → Responsive & Modern UI
-🎯 Goal            → Become a Professional Full Stack Developer
+🌱 Learning        
+  → Full Stack Web Development
+💻 Frontend       
+  → HTML | CSS | JavaScript
+🛠️ Tools           
+  → Git | GitHub | VS Code
+🎨 Design          
+  → Responsive & Modern UI
+🎯 Goal            
+  → Become a Professional Full Stack Developer
 </div>
 
 <div align="center">
