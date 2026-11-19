@@ -1,12 +1,5 @@
 <!-- 🎨 HEADER BANNER SECTION -->
 <!-- Yahan aap apna banner image ka direct URL lagayein -->
-<div align="center">
-  <img 
-    src="https://tse4.mm.bing.net/th/id/OIP.bIqx-c3forUPXHdPoUjuJAHaCH?r=0&pid=Api&h=220&P=0" 
-    alt="Header Banner" 
-    style="width: 100%; border-radius: 8px;" 
-  />
-</div>
 
 <br />
 
@@ -15,10 +8,14 @@
 <!-- 2. Aqua (#00FFFF): Full Stack Web Developer -->
 <!-- 3. Orange (#FFA500): Building Modern Web Applications -->
 <!-- 4. Purple (#C084FC): Turning Ideas Into Reality 🚀 -->
+
 <div align="center">
-  <a href="https://github.com/hammadmalik08">
-    <img src="./typing.svg" alt="Typing Animation" />
-  </a>
+  <img 
+    src="" 
+    alt="Header Banner" 
+    style="width: 100%; border-radius: 8px;" 
+  />
+</div>
 
   <h3>A passionate full stack developer from Pakistan 🇵🇰</h3>
 
