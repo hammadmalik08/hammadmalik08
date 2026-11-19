@@ -1,23 +1,23 @@
+<!-- 🎨 HEADER BANNER SECTION -->
+<!-- Yahan aap apna banner image ka direct URL lagayein -->
 <div align="center">
-
-  <!-- 📸 PROFILE PHOTO / AVATAR TAG -->
-  <!-- Note: Yahan aap apni photo ka URL lagayein (Abhi aapki GitHub profile picture set hai) -->
   <img 
-    src="https://avatars.githubusercontent.com/hammadmalik08" 
-    alt="Hammad Malik Photo" 
-    width="130" 
-    height="130" 
-    style="border-radius: 50%; border: 3px solid #0e75b6; object-fit: cover;"
+    src="https://tse4.mm.bing.net/th/id/OIP.bIqx-c3forUPXHdPoUjuJAHaCH?r=0&pid=Api&h=220&P=0" 
+    alt="Header Banner" 
+    style="width: 100%; border-radius: 8px;" 
   />
+</div>
 
-  <br />
+<br />
 
-  <!-- ⌨️ TYPING EFFECT -->
+<!-- ⌨️ DYNAMIC TYPING ANIMATION (Har line ka custom color) -->
+<!-- 1. Light Green (#4ADE80): Hi 👋, I'm Hammad Malik -->
+<!-- 2. Aqua (#00FFFF): Full Stack Web Developer -->
+<!-- 3. Orange (#FFA500): Building Modern Web Applications -->
+<!-- 4. Purple (#C084FC): Turning Ideas Into Reality 🚀 -->
+<div align="center">
   <a href="https://github.com/hammadmalik08">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=0e75b6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Hammad+Malik;Full+Stack+Web+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality+%F0%9F%9A%80" 
-      alt="Typing Animation" 
-    />
+    <img src="./typing.svg" alt="Typing Animation" />
   </a>
 
   <h3>A passionate full stack developer from Pakistan 🇵🇰</h3>
@@ -25,14 +25,15 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=hammadmalik08&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </p>
-
 </div>
 
 ---
 
 ### 🙋‍♂️ About Me
 
-<img align="right" alt="Coding" width="380" src="https://t4.ftcdn.net/jpg/07/44/39/67/360_F_744396718_RZ6UK8azeTMXPA5dSYVPrRGVNUmK2FMf.jpg">
+<!-- 📸 PROFILE PHOTO / SIDE IMAGE (Pehle ki tarha side par) -->
+<!-- Note: Aap yahan apni photo ka link ya avatar link bhi asani se laga sakte hain -->
+<img align="right" alt="Coding / Hammad Malik" width="370" style="border-radius: 12px; margin-left: 20px;" src="https://t4.ftcdn.net/jpg/07/44/39/67/360_F_744396718_RZ6UK8azeTMXPA5dSYVPrRGVNUmK2FMf.jpg" />
 
 - 👨‍💻 All of my projects are available at: [github.com/hammadmalik08](https://github.com/hammadmalik08)
 - 💬 Ask me about: **Full Stack Web Development, modern UI design, and responsive web apps**
