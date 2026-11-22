@@ -1,21 +1,21 @@
 <!-- 🎨 HEADER BANNER SECTION -->
 <!-- Yahan aap apna banner image ka direct URL lagayein -->
-
-<br />
-
-<!-- ⌨️ DYNAMIC TYPING ANIMATION (Har line ka custom color) -->
-<!-- 1. Light Green (#4ADE80): Hi 👋, I'm Hammad Malik -->
-<!-- 2. Aqua (#00FFFF): Full Stack Web Developer -->
-<!-- 3. Orange (#FFA500): Building Modern Web Applications -->
-<!-- 4. Purple (#C084FC): Turning Ideas Into Reality 🚀 -->
-
 <div align="center">
   <img 
-    src="" 
+    src="https://tse4.mm.bing.net/th/id/OIP.bIqx-c3forUPXHdPoUjuJAHaCH?r=0&pid=Api&h=220&P=0" 
     alt="Header Banner" 
     style="width: 100%; border-radius: 8px;" 
   />
 </div>
+
+<br />
+
+<!-- ⌨️ DYNAMIC TYPING ANIMATION (Pehle line 1 type hogi, phir khatam hogi, phir line 2, etc.) -->
+
+<div align="center">
+  <a href="https://github.com/hammadmalik08">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I%27m+Hammad+Malik;Full+Stack+Web+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing Animation" />
+  </a>
 
   <h3>A passionate full stack developer from Pakistan 🇵🇰</h3>
 
@@ -28,8 +28,7 @@
 
 ### 🙋‍♂️ About Me
 
-<!-- 📸 PROFILE PHOTO / SIDE IMAGE (Pehle ki tarha side par) -->
-<!-- Note: Aap yahan apni photo ka link ya avatar link bhi asani se laga sakte hain -->
+<!-- 📸 PROFILE PHOTO / SIDE IMAGE (Right side par - pehle ki tarha) -->
 <img align="right" alt="Coding / Hammad Malik" width="370" style="border-radius: 12px; margin-left: 20px;" src="https://t4.ftcdn.net/jpg/07/44/39/67/360_F_744396718_RZ6UK8azeTMXPA5dSYVPrRGVNUmK2FMf.jpg" />
 
 - 👨‍💻 All of my projects are available at: [github.com/hammadmalik08](https://github.com/hammadmalik08)
@@ -43,15 +42,16 @@
 ---
 
 <!-- 🚀 PROJECTS SECTION -->
+
 ## 🚀 Featured Projects
 
 > Yahan aap apne projects ka naam, short description/bio aur links asani se edit kar sakte hain:
 
-| 📌 Project Name | 📝 Short Bio / Description | 🛠️ Tech Stack | 🔗 Links |
-| :--- | :--- | :--- | :--- |
-| **Project 1: E-Commerce Store** | Modern responsive online store with shopping cart and product search. | `HTML` `CSS` `JavaScript` | [🔗 Live Demo](https://your-demo-link.com) \| [💻 Code](https://github.com/hammadmalik08) |
+| 📌 Project Name                  | 📝 Short Bio / Description                                                | 🛠️ Tech Stack               | 🔗 Links                                                                                  |
+| :------------------------------- | :------------------------------------------------------------------------ | :-------------------------- | :---------------------------------------------------------------------------------------- |
+| **Project 1: E-Commerce Store**  | Modern responsive online store with shopping cart and product search.     | `HTML` `CSS` `JavaScript`   | [🔗 Live Demo](https://your-demo-link.com) \| [💻 Code](https://github.com/hammadmalik08) |
 | **Project 2: Portfolio Website** | Personal developer portfolio showcasing work, skills, and interactive UI. | `Bootstrap` `Tailwind` `JS` | [🔗 Live Demo](https://your-demo-link.com) \| [💻 Code](https://github.com/hammadmalik08) |
-| **Project 3: Web Application** | Dynamic web application with clean backend integration and database. | `Python` `Django` `SQLite` | [🔗 Live Demo](https://your-demo-link.com) \| [💻 Code](https://github.com/hammadmalik08) |
+| **Project 3: Web Application**   | Dynamic web application with clean backend integration and database.      | `Python` `Django` `SQLite`  | [🔗 Live Demo](https://your-demo-link.com) \| [💻 Code](https://github.com/hammadmalik08) |
 
 <br/>
 
@@ -60,6 +60,7 @@
 <br/>
 
 ### 1. 🌐 [Project Title 1](https://github.com/hammadmalik08)
+
 - **Short Bio:** Write a 1-2 line description of your project here.
 - **Tech Stack:** HTML, CSS, JavaScript, Tailwind
 - **Links:** [🔗 Live Preview](https://your-demo-link.com) • [📁 GitHub Repository](https://github.com/hammadmalik08)
@@ -67,6 +68,7 @@
 ---
 
 ### 2. ⚡ [Project Title 2](https://github.com/hammadmalik08)
+
 - **Short Bio:** Write a 1-2 line description of your project here.
 - **Tech Stack:** Python, Web Framework
 - **Links:** [🔗 Live Preview](https://your-demo-link.com) • [📁 GitHub Repository](https://github.com/hammadmalik08)
@@ -145,8 +147,8 @@
 
 <div align="center">
 
-  💡 *"Code. Learn. Build. Improve. Repeat."* 🚀  
-  ⭐ If you like my projects, don't forget to star them!  
-  ❤️ Thanks for visiting my profile!
+💡 _"Code. Learn. Build. Improve. Repeat."_ 🚀  
+ ⭐ If you like my projects, don't forget to star them!  
+ ❤️ Thanks for visiting my profile!
 
 </div>
