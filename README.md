@@ -2,7 +2,7 @@
 <!-- Yahan aap apna banner image ka direct URL lagayein -->
 <div align="center">
   <img 
-    src="https://tse4.mm.bing.net/th/id/OIP.bIqx-c3forUPXHdPoUjuJAHaCH?r=0&pid=Api&h=220&P=0" 
+    src="banner.jpg" 
     alt="Header Banner" 
     style="width: 100%; border-radius: 8px;" 
   />
